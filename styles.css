@@ -1,7 +1,7 @@
 #countLabel{
     display: block;
     text-align: center;
-    font-size: 10em; // 10x normal size
+    font-size: 10em;
     font-family: Helvetica;
 }
 
@@ -11,7 +11,7 @@
 
 .buttons {
     padding 10px 20px;
-    font-size: 1.5em; // 150%
+    font-size: 1.5em;
     color: white;
     background-color: lightblue;
     border-radius: 5px;
